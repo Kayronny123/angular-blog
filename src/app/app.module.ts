@@ -17,7 +17,7 @@ import { HomeComponent } from './pages/home/home.component';
     BigCardComponent,
     SmallCardComponent,
     HomeComponent
-  ],
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule
