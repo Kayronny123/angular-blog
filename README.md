@@ -1,6 +1,6 @@
 # Projeto de Blog com Angular
 
-O projeto de blog com Angular é uma aplicação web moderna que utiliza várias tecnologias oferecidas por este poderoso framework de desenvolvimento. Este projeto é uma ótima maneira de demonstrar como você pode criar uma plataforma de blog interativa e atraente com as capacidades do Angular.
+O projeto de blog com Angular é uma aplicação web moderna que utiliza várias tecnologias oferecidas por este poderoso framework de desenvolvimento. Este projeto é uma ótima maneira de demonstrar como pude por em prática meus conhecimentos adquiridos da plataforma DIO para criar um blog interativa e atraente com as capacidades do Angular.
 
 ## Tecnologias Utilizadas
 
