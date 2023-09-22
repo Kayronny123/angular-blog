@@ -10,4 +10,6 @@ export class SmallCardComponent {
   photoCover: string = ''
   @Input()
   cardTitle: string = "Nova versão do angular foi Lançada"
+  @Input()
+  Id:string = '0'
 }
